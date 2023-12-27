@@ -1,6 +1,6 @@
 import React from 'react';
-import Styles from './MenuProfile.module.scss'
-const MenuProfile = () => {
+import Styles from './MenuProfileItem.module.scss'
+const MenuProfileItem = () => {
     return (
         <nav className={Styles.nav}>
 
@@ -8,4 +8,4 @@ const MenuProfile = () => {
     );
 };
 
-export default MenuProfile;
+export default MenuProfileItem;

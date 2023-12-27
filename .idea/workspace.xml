@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86093480-ce99-4b02-8692-7904eeffa856" name="Changes" comment="" />
+    <list default="true" id="86093480-ce99-4b02-8692-7904eeffa856" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/MenuProfile/MenuProfile.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MenuProfile/MenuProfile.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MenuProfile/MenuProfileItem.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/MenuProfile/MenuProfileItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/Home.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/Home/Home.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Home/Home.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -25,6 +36,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2ZoaEM4CTOJUf50yPsxROMr88eZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,7 +48,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/git/react-sneakers/src/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/git/react-sneakers/src/components/MenuProfileItem&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -46,8 +61,12 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git\react-sneakers\src\components\MenuProfileItem" />
       <recent name="E:\git\react-sneakers\src\assets" />
       <recent name="E:\git\react-sneakers\src\assets\fonts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git\react-sneakers\src\components\MenuProfile" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +82,9 @@
       <workItem from="1703170085895" duration="648000" />
       <workItem from="1703193301326" duration="1307000" />
       <workItem from="1703194644235" duration="60000" />
-      <workItem from="1703234531246" duration="307000" />
+      <workItem from="1703234531246" duration="1787000" />
+      <workItem from="1703272324795" duration="7565000" />
+      <workItem from="1703680147512" duration="161000" />
     </task>
     <servers />
   </component>

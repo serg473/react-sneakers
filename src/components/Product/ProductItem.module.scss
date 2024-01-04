@@ -3,10 +3,51 @@
 	border: 1px solid #f8f8f8;
 	background: #fff;
 	box-shadow: 0px 14px 30px 0px rgba(0, 0, 0, 0.05);
+	padding: 22px 30px 32px 30px;
+	display: flex;
+	flex-direction: column;
+	width: 210px;
+	height: 260px;
+	& > div{
+		text-align: center;
+	}
 	&__title {
 		font-size: 14px;
 		color: #000;
-		margin: 14px 0 0 0;
+		margin: 14px 0;
 		font-weight: 400;
+		line-height: 16.94px;
+	}
+	&__info {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		button {
+			width: 32px;
+			height: 32px;
+			border: 1px solid #f2f2f2;
+			background: white;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			cursor: pointer;
+		}
+	}
+	&__price {
+		display: flex;
+		flex-direction: column;
+		align-items: flex-start;
+		span {
+			color: #bdbdbd;
+			font-size: 11px;
+			font-weight: 500;
+			line-height: 13.31px;
+			text-transform: uppercase;
+		}
+		strong {
+			color: #000;
+			font-weight: 700;
+			line-height: 16.94px;
+		}
 	}
 }

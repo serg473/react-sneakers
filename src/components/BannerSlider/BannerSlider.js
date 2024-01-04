@@ -1,12 +1,12 @@
 import { Swiper } from 'swiper/react'
-import { Autoplay, Navigation } from 'swiper/modules';
+import { Autoplay, Navigation } from 'swiper/modules'
 import 'swiper/css'
-import 'swiper/css/navigation';
+import 'swiper/css/navigation'
 
-const BannerSlider = (props) => {
+const BannerSlider = props => {
 	return (
 		<Swiper
-            className="swiper"
+			className='swiper'
 			spaceBetween={30}
 			slidesPerView={1}
 			modules={[Autoplay, Navigation]}
@@ -16,7 +16,7 @@ const BannerSlider = (props) => {
 				disableOnInteraction: false,
 			}}
 		>
-            {props.children}
+			{props.children}
 		</Swiper>
 	)
 }

@@ -1,0 +1,36 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0 60px 43px 45px;
+	&__logo {
+		display: flex;
+		align-items: center;
+		gap: 16px;
+
+		&__names {
+			display: flex;
+			flex-direction: column;
+			font-style: normal;
+
+			h4 {
+				font-size: 20px;
+				font-weight: 700;
+				line-height: 24.2px;
+				text-transform: uppercase;
+			}
+
+			span {
+				color: #9d9d9d;
+				font-size: 14px;
+				line-height: 16.94px;
+			}
+		}
+	}
+	&__menu {
+		&__menuItem {
+			display: flex;
+			align-items: center;
+		}
+	}
+}

@@ -9,4 +9,9 @@
 	align-items: center;
 	justify-content: center;
 	cursor: pointer;
+	transition: all 0.4s;
+	&:hover {
+		transition: all 0.4s;
+		background: #fef0f0;
+	}
 }

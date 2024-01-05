@@ -13,6 +13,9 @@
 		position: relative;
 		& > button {
 			position: absolute;
+			svg {
+				fill: #eaeaea;
+			}
 		}
 	}
 	&__title {

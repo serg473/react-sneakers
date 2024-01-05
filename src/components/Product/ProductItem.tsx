@@ -1,4 +1,6 @@
 import { IoAdd } from 'react-icons/io5'
+import { MdOutlineFavoriteBorder } from 'react-icons/md'
+import ButtonCard from '../ButtonCard/ButtonCard'
 import { IProduct } from './Product'
 import styles from './ProductItem.module.scss'
 
@@ -6,6 +8,9 @@ const ProductItem = ({ sneaker }: { sneaker: IProduct }) => {
 	return (
 		<div className={styles.item}>
 			<div>
+				<ButtonCard>
+					<MdOutlineFavoriteBorder size='18px' />
+				</ButtonCard>
 				<img
 					width='133'
 					height='112'
@@ -20,9 +25,9 @@ const ProductItem = ({ sneaker }: { sneaker: IProduct }) => {
 					<strong>{sneaker.price}</strong>
 				</div>
 				<div className={styles.item__add}>
-					<button>
-						<IoAdd color='#d3d3d3' size='20px' />
-					</button>
+					<ButtonCard>
+						<IoAdd color='#d3d3d3' size='18px' />
+					</ButtonCard>
 				</div>
 			</div>
 		</div>

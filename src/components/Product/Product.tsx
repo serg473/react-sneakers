@@ -12,58 +12,58 @@ const Product = () => {
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101764/krossovki-adidas-retropy-f90-ig9988-1-695x695.jpg',
-			title: 'Кроссовки Adidas Retropy F90 (IG9988)',
-			price: '354.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/271240/IMG_2633-auto_width_1000-auto_width_380.png',
+			title: 'NIKE AIR JORDAN 4 CANYON PURPLE WINTER',
+			price: '180.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101752/krossovki-adidas-adifom-ig7454-1-695x695.jpg',
-			title: 'Кроссовки Adidas AdiFOM (IG7454)',
-			price: '365.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/212155/IMG_1316-auto_width_1000-auto_width_380.png',
+			title: 'BALENCIAGA TRIPLE S BLACK',
+			price: '210.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101755/krossovki-adidas-osade-ig7330-1-695x695.jpg',
-			title: 'Кроссовки Adidas Osade (IG7330)',
-			price: '298.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/281519/IMG_3897-auto_width_1000-auto_width_380.png',
+			title: 'NIKE TRAVIS SCOTT X JORDAN 1 LOW PHANTOM BLUE',
+			price: '165.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101766/krossovki-adidas-avryn-ig2374-1-695x695.jpg',
-			title: 'Кроссовки Adidas Avryn (IG2374)',
-			price: '488.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/281520/IMG_0983-auto_width_1000-auto_width_380.png',
+			title: 'JORDAN 1 LOW SOFT BLUE',
+			price: '165.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101764/krossovki-adidas-retropy-f90-ig9988-1-695x695.jpg',
-			title: 'Кроссовки Adidas Retropy F90 (IG9988)',
-			price: '354.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/282113/IMG_1069-auto_width_1000-auto_width_380.png',
+			title: 'NIKE AIR FORCE 1 LOW WHITE',
+			price: '150.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101752/krossovki-adidas-adifom-ig7454-1-695x695.jpg',
-			title: 'Кроссовки Adidas AdiFOM (IG7454)',
-			price: '365.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/271239/IMG_2607-auto_width_1000-auto_width_380.png',
+			title: 'NIKE JORDAN 4 BRED WINTER',
+			price: '180.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101755/krossovki-adidas-osade-ig7330-1-695x695.jpg',
-			title: 'Кроссовки Adidas Osade (IG7330)',
-			price: '298.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/281521/IMG_0998-auto_width_1000-auto_width_380.png',
+			title: 'NIKE SB DUNK LOW GRATEFUL DEAD BEARS ORANGE',
+			price: '120.00 BYN',
 		},
 		{
 			like: false,
 			picture:
-				'https://sneakers.by/image/cache/catalog/sneakers-pics/101766/krossovki-adidas-avryn-ig2374-1-695x695.jpg',
-			title: 'Кроссовки Adidas Avryn (IG2374)',
-			price: '488.00 BYN',
+				'https://sneakerstore.by/image/cache/catalog/products/2023/11/281419/IMG_5075-auto_width_1000-auto_width_380.png',
+			title: 'NIKE AIR JORDAN 4 TRAVIS SCOTT CACTUS JACK',
+			price: '170.00 BYN',
 		},
 	]
 	return (
